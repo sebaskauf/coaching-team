@@ -1,0 +1,10 @@
+{
+  "name": "coaching-team",
+  "version": "1.0.0",
+  "description": "Fünf Claude-Agenten als dein persönliches Coaching-Team: Analyse, Training, Ernährung, Form und wöchentlicher Check-in.",
+  "author": { "name": "Sebastian Kauffmann" },
+  "homepage": "https://github.com/sebaskauf/coaching-team",
+  "repository": "https://github.com/sebaskauf/coaching-team",
+  "license": "MIT",
+  "keywords": ["fitness", "training", "ernaehrung", "coach", "deutsch"]
+}

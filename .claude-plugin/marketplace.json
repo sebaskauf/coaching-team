@@ -1,0 +1,14 @@
+{
+  "name": "coaching-team",
+  "description": "Dein persönliches Coaching-Team mit fünf Claude-Agenten: Analyse, Training, Ernährung, Form und Check-in.",
+  "owner": {
+    "name": "Sebastian Kauffmann"
+  },
+  "plugins": [
+    {
+      "name": "coaching-team",
+      "source": "./",
+      "description": "Fünf Claude-Agenten als dein persönliches Coaching-Team."
+    }
+  ]
+}
