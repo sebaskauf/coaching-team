@@ -85,7 +85,7 @@ Deine Daten liegen in Claude Code im Ordner `mein-coaching/` dort, wo du `/coach
 
 - **Kein Arzt, kein Physio.** Bei Schmerzen ersetzt dein Team die Übung. Anhaltende Schmerzen, Vorerkrankungen, Medikamente oder Schwangerschaft bitte ärztlich abklären.
 - **Kalorien aus Fotos sind Schätzungen** mit Spanne. Öl, Saucen und Getränke sieht man oft nicht. Etikett mitfotografieren = echte Werte.
-- **Ein Foto zeigt einen Moment, keine Bewegung.** Der Form-Agent bewertet nur, was zu sehen ist.
+- **Ein Foto zeigt einen Moment, keine Bewegung.** Der Form-Agent bewertet nur, was zu sehen ist. Grobe Fehler erkennt er gut. Feinere wie eine durchhängende Hüfte sieht das stärkste Modell (Opus) deutlich zuverlässiger als das Standardmodell.
 - **Claude schreibt dich nicht von selbst an.** Die Erinnerung zum Check-in kommt über deinen Kalender.
 - Die Richtwerte (Mifflin-St Jeor, 1,6–2,2 g Protein pro kg, 10–20 Sätze pro Muskel und Woche) sind Standard-Richtwerte der Sportwissenschaft für gesunde Erwachsene, keine Garantie.
 
