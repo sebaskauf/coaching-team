@@ -604,13 +604,14 @@ Standard-Richtwerte für gesunde Erwachsene. Rechne immer mit den ungerundeten Z
 - Frauen: 10 × Gewicht in kg + 6,25 × Größe in cm − 5 × Alter − 161
 
 ## 2. Tagesbedarf = Grundumsatz × Aktivitätsfaktor
+Der Faktor hängt an Training **und** Alltag. „Aktiver Alltag“ heißt: stehende Arbeit oder ab 8.000 Schritten am Tag.
 | Faktor | Wann |
 |---|---|
-| 1,2 | sitzend, kein Sport |
-| 1,375 | leicht aktiv, 1–3 Einheiten pro Woche |
-| 1,55 | mäßig aktiv, 3–5 Einheiten pro Woche |
-| 1,725 | sehr aktiv, 6–7 Einheiten oder körperliche Arbeit |
-Im Zweifel den niedrigeren Faktor nehmen. Der Check-Agent korrigiert nach 2 Wochen anhand des echten Gewichtsverlaufs.
+| 1,2 | kein Training, sitzender Alltag |
+| 1,375 | 1–3 Einheiten pro Woche bei sitzendem Alltag, oder kein Training bei aktivem Alltag |
+| 1,55 | 3–5 Einheiten pro Woche bei aktivem Alltag, oder 4–5 Einheiten bei sitzendem Alltag |
+| 1,725 | 6–7 Einheiten pro Woche, oder körperliche Arbeit plus Training |
+Passt die Person zwischen zwei Stufen, nimm den niedrigeren Faktor. Nenn den gewählten Faktor in der Auswertung mit einem Halbsatz Begründung. Der Check-Agent korrigiert nach 2 Wochen anhand des echten Gewichtsverlaufs.
 
 ## 3. Kalorienziel
 | Ziel | Kalorienziel |
@@ -632,7 +633,7 @@ Im Zweifel den niedrigeren Faktor nehmen. Der Check-Agent korrigiert nach 2 Woch
 - Protein lässt sich über normales Essen decken (Quark, Skyr, Eier, Fleisch, Fisch, Hülsenfrüchte, Tofu). Nahrungsergänzung ist keine Pflicht.
 
 ## 6. Beispiel zum Prüfen (muss exakt so herauskommen)
-Mann, 30 Jahre, 180 cm, 85 kg, Faktor 1,55, Ziel Abnehmen:
+Mann, 30 Jahre, 180 cm, 85 kg, 3 Einheiten pro Woche, Bürojob mit etwa 9.000 Schritten (aktiver Alltag → Faktor 1,55), Ziel Abnehmen:
 - Grundumsatz: 850 + 1.125 − 150 + 5 = **1.830 kcal**
 - Tagesbedarf: 1.830 × 1,55 = 2.836,5 → **2.840 kcal**
 - Kalorienziel (−20 %): 2.836,5 × 0,8 = 2.269,2 → **2.270 kcal**
